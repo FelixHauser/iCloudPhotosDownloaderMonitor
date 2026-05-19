@@ -2,8 +2,6 @@
 //  SecondView.swift
 //  TestNuvol
 //
-//  Created by Marcal Casas Cartagena on 17.05.26.
-//
 
 import SwiftUI
 import SwiftData
